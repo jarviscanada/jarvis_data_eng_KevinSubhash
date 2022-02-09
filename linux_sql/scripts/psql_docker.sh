@@ -29,8 +29,7 @@ case $cmd in
 	;;
 
   start|stop)
-  #check instance status; exit 1 if container has not been created
-  # shellcheck disable=SC1073
+
   if [ $container_status -ne 0 ]; then
     echo 'Container needs to be created.'
     exit 1
