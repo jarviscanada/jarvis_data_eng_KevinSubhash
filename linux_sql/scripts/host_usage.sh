@@ -19,8 +19,6 @@ cpu_idle=$(echo "$vmstat_mb" | awk '{print $15}'| tail -n1 | xargs)
 cpu_kernel=$(echo "$vmstat_mb" | awk '{print $14}'| tail -n1 | xargs)
 disk_io=$(vmstat -d | awk '{print $10}'| tail -n1 | xargs)
 disk_available=$(echo `df -BM` | awk '{print substr($11, 1, length($11)-1)}' | xargs)
-
-
 timestamp=$(echo `vmstat -t` | awk '{print $43" "$44}' | xargs)
 
 host_id="(SELECT id FROM host_info WHERE hostname='$hostname')"
