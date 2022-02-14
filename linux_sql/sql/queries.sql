@@ -16,4 +16,4 @@ CREATE FUNCTION round5(ts timestamp) RETURNS timestamp AS
 SELECT host_usage.host_id, host_info.hostname, round5(host_usage.timestamp) as timestamps, (AVG (host_info.mem_total - host_usage.memory_free)/host_info.mem_total) * 100) as avg_used_mem_percentage
     FROM host_usage inner join host_info ON host_usage.host_id = host_info.id
     GROUP BY host_usage.host_id, host_info.hostname, timestamps
-    ORDER BY host_usage.host_id ASC, timestamps ASC;
+    ORDER BY host_usage.host_id ASC;
