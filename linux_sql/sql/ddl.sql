@@ -4,7 +4,7 @@ DROP TABLE host_usage CASCADE;
 CREATE TABLE IF NOT EXISTS PUBLIC.host_info
 (
 	id               SERIAL NOT NULL,
-    hostname         VARCHAR NOT NULL,
+    hostname         VARCHAR NOT NULL UNIQUE,
 	cpu_number 	     INT NOT NULL,
 	cpu_architecture VARCHAR NOT NULL,
 	cpu_model 	     VARCHAR NOT NULL,
@@ -12,8 +12,7 @@ CREATE TABLE IF NOT EXISTS PUBLIC.host_info
 	L2_cache	     INT NOT NULL,
 	total_mem	     INT NOT NULL,
 	timestamp        TIMESTAMP NOT NULL,
-	CONSTRAINT host_id PRIMARY KEY (id),
-	CONSTRAINT hostname UNIQUE (hostname)
+	CONSTRAINT host_id PRIMARY KEY (id)
 );
 
 INSERT INTO host_info(id, hostname, cpu_number, cpu_architecture, cpu_model,
