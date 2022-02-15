@@ -14,7 +14,7 @@ CREATE FUNCTION round5(ts timestamp) RETURNS timestamp AS
     LANGUAGE PLPGSQL;
 
 SELECT host_usage.host_id, host_info.hostname, round5(host_usage.timestamp) as timestamps, (AVG ((host_info.total_mem - host_usage.memory_free)/host_info.total_mem) * 100) as avg_used_mem_percentage
-    FROM host_usage INNER JOIN host_info ON host_usage.host_id = host_info.id
+    FROM host_usage, host_info
     GROUP BY host_usage.host_id, host_info.hostname, timestamps
     ORDER BY host_usage.host_id ASC;
 
