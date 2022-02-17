@@ -58,7 +58,6 @@ Creates host_info and host_usage tables in the database.
 Contains queries to get more information from the database such as getting the average memory usage.
 
 ## Database Modeling
-Describe the schema of each table using markdown table syntax (do not put any sql code)
 `host_info`:
 
 | Attribute | Description |
@@ -96,8 +95,6 @@ tested using PostgreSQL.
 * Crontab - This was used to run host_usage.sh every minute in order to gather real-time information in terms of usage.
 
 # Improvements
-Write at least three things you want to improve 
-e.g. 
 - Automatically update hardware information if changed.
 - Create a log for any potential error/fails, not only for host_usage.
 - Potentially add a feature to get more information such as network and power usage.
