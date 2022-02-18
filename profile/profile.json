@@ -1,0 +1,115 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "Admission Scholarship"
+      ],
+      "degree": "Honours Bachelor of Science",
+      "department": "Computer Science \u0026 Mathematics",
+      "duration": "2017-2021",
+      "school_name": "University of Toronto"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_demo",
+  "highlighted_projects": [
+    {
+      "description": "This is a typical Connect Four game. My team and I developed this game using Python with the Pygame library. This game is strictly for 2 players where each player takes turns with the same goal of connecting 4 chips consecutively in any direction.",
+      "git_url": "https://github.com/osamaramihafez/c4",
+      "name": "C4 (Connect Four)"
+    },
+    {
+      "description": "A trivia game that was developed as a team using Java with the Eclipse IDE. The player needs to create an account in order to have access. This game allows the player to create and play different quizzes for any topic.",
+      "git_url": "https://github.com/thelilyliu/reach",
+      "name": "Reach Trivia"
+    },
+    {
+      "description": "This is a Flappy Bird parody game. This game was developed by my friend and I using Java. This is my first ever side project. The goal of this game is to get as far as you can without hitting the pipes coming your way.",
+      "git_url": "https://github.com/KevinSub/AerialSwift",
+      "name": "Aerial Swift"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Created a Linux Cluster Monitoring Agent which is a tool that is used to store each node's hardware specifications as well as its updated memory usage in a database. The technologies used for this project are Bash, Docker, Git, PostgreSQL, and Intellij.",
+      "git_url": "https://github.com/jarviscanada/jarvis_data_eng_KevinSubhash/tree/master/linux_sql",
+      "name": "Cluster Monitor"
+    },
+    {
+      "description": [
+        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      ],
+      "git_url": "/core_java",
+      "name": "Core Java Apps"
+    },
+    {
+      "description": "",
+      "git_url": "/springboot",
+      "name": "Springboot App"
+    },
+    {
+      "description": "",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    },
+    {
+      "description": "",
+      "git_url": "/spark",
+      "name": "Spark"
+    },
+    {
+      "description": "",
+      "git_url": "/cloud_devops",
+      "name": "Cloud/DevOps"
+    }
+  ],
+  "name": "Kevin Subhash",
+  "others": [
+    {
+      "bullets": [
+        "Basketball",
+        "Video Games",
+        "Music"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Developed several projects using Linux, Bash, Docker, Java, etc. with the implementation of the scrum/agile methodology and Gitflow.",
+      "duration": "2022-present",
+      "title": "Software Developer"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Python",
+      "PostgreSQL",
+      "MongoDB",
+      "Postman",
+      "OOP"
+    ],
+    "familiar": [
+      "HTML/CSS",
+      "C",
+      "Docker",
+      "Maven",
+      "UML Diagrams"
+    ],
+    "proficient": [
+      "Java",
+      "Linux/Bash",
+      "RDBMS/SQL",
+      "Agile/Scrum",
+      "Git"
+    ]
+  },
+  "summary": "I am a recent graduate from University of Toronto with an Honours Bachelor of Science. I did a double major in Computer Science and Mathematics during my undergrad. I first started programming in grade 10 and found it very facinating. After learning about how computer science is very important in the industry, I dedcided to pursue a career in it since I enjoyed it quite a bit. My ultimate goal is to one day work in the video game industry hence the reason I have taken mathematics as a second major. Over the years, I have been exposed to many concepts such as web development, data structures/algorithms, software design, and systems programming just to name a few. In terms of experience, I am currently a software developer at Jarvis who has worked on several projects such as the linux cluster monitoring agent."
+}
