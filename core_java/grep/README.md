@@ -3,10 +3,11 @@ This is a Java Grep App which acts like the grep command in the Linux command li
 found into a file. The technologies used for this project are Java, Maven, Lambda & Stream API, and Intellij.
 
 # Quick Start
+```
 1. mvn clean compile project
 2. java -jar target/grep-1.0-SNAPSHOT.jar  <regex> <rootDirectory> <outputFile>
 3. cat <outputFile>
-
+```
 # Implemenation
 ## Pseudocode
 `process` method pseudocode.
