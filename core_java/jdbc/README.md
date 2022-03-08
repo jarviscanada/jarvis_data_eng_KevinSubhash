@@ -4,7 +4,7 @@ This is a JDBC application. The JDBC allows a connection between a java applicat
 were added and it is specially connected to a PostgreSQL RDBMS. In addition, a customer Data Access Object was created with this project. The technologies used for this 
 are JDBC, PostgreSQL, Maven, DBeaver, and Intellij.
 
-# Implementaiton
+# Implementation
 ## ER Diagram
 
 ![er](./assets/er.png)
