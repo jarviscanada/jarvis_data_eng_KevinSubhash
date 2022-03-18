@@ -37,8 +37,8 @@
     {
       "description": [
         "Twitter App: Not started.",
-        "JDBC App: Not started.",
-        "Grep App: Not started."
+        "JDBC App: This is a JDBC application. The JDBC allows a connection between a java application and the RDBMS. In this implementation, CRUD functions were added.",
+        "Grep App: This app acts like the grep command in the Linux command line tool. This application recursively searches the files in the directory following a regex pattern and outputs the lines found into a file."
       ],
       "git_url": "/core_java",
       "name": "Core Java Apps"
