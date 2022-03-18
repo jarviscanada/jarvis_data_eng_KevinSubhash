@@ -1,5 +1,6 @@
 package ca.jrvs.practice.codingChallenges;
-
+import java.util.HashMap;
+import java.util.Map;
 public class TwoSum{
     public int[] twoSum(int[] numbers, int target) {
         HashMap<Integer, Integer> seen = new HashMap<>();
