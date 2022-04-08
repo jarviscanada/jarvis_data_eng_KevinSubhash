@@ -1,0 +1,114 @@
+# Preferred name (Characters only)
+name: "Kevin Subhash"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: "I am a recent graduate from University of Toronto with an Honours Bachelor of Science. I did a double major 
+in Computer Science and Mathematics during my undergrad. Over the years, I have worked with several concepts such as 
+web development, data structures/algorithms, software design, and systems programming just to name a few. I first started 
+programming in grade 10 and found it very fascinating which has led me to pursue a career in computer science. I am 
+currently a software developer at Jarvis where I worked with many technologies such as Docker, Maven, and Springboot. 
+I see myself as an inspired individual who is committed to professional growth and continuous learning."
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - Python
+    - PostgreSQL
+    - Docker
+    - Postman
+    - Maven
+  # At least 5 skills
+  familiar:
+    - HTML/CSS
+    - C
+    - MongoDB
+    - Springboot
+    - UML Diagrams
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "https://github.com/jarviscanada/jarvis_data_eng_KevinSubhash/tree/master/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Created a Linux Cluster Monitoring Agent which is a tool that is used to store each node's hardware specifications as well as its updated memory usage in a database. The technologies
+    used for this project are Bash, Docker, Git, PostgreSQL, and Intellij."
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      #- "Twitter App: Not started."
+      - "JDBC App: This is a JDBC application. The JDBC allows a connection between a java application and the RDBMS. In this implementation, CRUD functions were added."
+      - "Grep App: This app acts like the grep command in the Linux command line tool. This application recursively searches the files in the directory following a regex pattern and outputs the lines found into a file."
+  #- name: "Springboot App"
+  #  git_url: "/springboot"
+  #  description: ""
+  #- name: "Python Data Analytics"
+  #  git_url: "/python_data_anlytics"
+  #  description: ""
+  #- name: "Hadoop"
+  #  git_url: "/hadoop"
+  #  description: ""
+  #- name: "Spark"
+  #  git_url: "/spark"
+  #  description: ""
+  #- name: "Cloud/DevOps"
+  #  git_url: "/cloud_devops"
+  #  description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+  #project name
+  - name: "C4 (Connect Four)"
+    #URL is optional
+    git_url: "https://github.com/osamaramihafez/c4"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "This is a typical Connect Four game. My team and I developed this game using Python with the Pygame library. 
+    This game is strictly for 2 players where each player takes turns with the same goal of connecting 4 chips consecutively in any direction."
+  - name: "Reach Trivia"
+    git_url: "https://github.com/thelilyliu/reach"
+    description: "A trivia game that was developed as a team using Java with the Eclipse IDE. 
+    The player needs to create an account in order to have access. This game allows the player to create and play different quizzes for any topic."
+  - name: "Aerial Swift"
+    git_url: "https://github.com/KevinSub/AerialSwift"
+    description: "This is a Flappy Bird parody game. This game was developed by my friend and I using Java. This is my first ever side project.
+    The goal of this game is to get as far as you can without hitting the pipes coming your way."
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "2022-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Developed several projects as a front-end and back-end developer by following the scrum/agile methodology. Gained hands-on 
+    experience with many technologies such as Java, SQL, Git, and Docker. Held daily scrum meetings as a team lead."
+#List of edcuation
+education:
+  - school_name: "University of Toronto"
+    duration: "2017-2021"
+    degree: "Honours Bachelor of Science"
+    department: "Computer Science & Mathematics"
+    awards_achievements:
+      - "Admission Scholarship - Achieved at least 90% average in High School"
+
+#Optional section
+others:
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Developing and playing video games"
+      - "Creating and listening to music"
