@@ -1,14 +1,14 @@
 # Kevin Subhash . Jarvis Consulting
 
-I am a recent graduate from University of Toronto with an Honours Bachelor of Science. I did a double major in Computer Science and Mathematics during my undergrad. I first started programming in grade 10 and found it very facinating. After learning about how computer science is very important in the industry, I dedcided to pursue a career in it since I enjoyed it quite a bit. My ultimate goal is to one day work in the video game industry hence the reason I have taken mathematics as a second major. Over the years, I have been exposed to many concepts such as web development, data structures/algorithms, software design, and systems programming just to name a few. In terms of experience, I am currently a software developer at Jarvis who has worked on several projects such as the linux cluster monitoring agent.
+I am a recent graduate from University of Toronto with an Honours Bachelor of Science. I did a double major in Computer Science and Mathematics during my undergrad. Over the years, I have been exposed to many concepts such as web development, data structures/algorithms, software design, and systems programming just to name a few. I first started programming in grade 10 and found it very fascinating which has led me to pursue a career in computer science. I am currently a software developer at Jarvis where I was introduced to many new technologies such as Docker, Maven, and Springboot. That being said, I see myself as an inspired individual who is committed to professional growth and continuous learning.
 
 ## Skills
 
 **Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
 
-**Competent:** Python, PostgreSQL, MongoDB, Postman, OOP
+**Competent:** Python, PostgreSQL, Docker, Postman, Maven
 
-**Familiar:** HTML/CSS, C, Docker, Maven, UML Diagrams
+**Familiar:** HTML/CSS, C, MongoDB, Springboot, UML Diagrams
 
 ## Jarvis Projects
 
@@ -19,19 +19,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 **Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/core_java)]:
       
-  - Twitter App: Not started.
-  - JDBC App: Not started.
-  - Grep App: Not started.
-
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/springboot)]: Not Started
-
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/python_data_anlytics)]: Not Started
-
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/hadoop)]: Not Started
-
-**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/spark)]: Not Started
-
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/cloud_devops)]: Not Started
+  - JDBC App: This is a JDBC application. The JDBC allows a connection between a java application and the RDBMS. In this implementation, CRUD functions were added.
+  - Grep App: This app acts like the grep command in the Linux command line tool. This application recursively searches the files in the directory following a regex pattern and outputs the lines found into a file.
 
 
 ## Highlighted Projects
@@ -44,15 +33,14 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2022-present)**: Developed several projects using Linux, Bash, Docker, Java, etc. with the implementation of the scrum/agile methodology and Gitflow.
+**Software Developer, Jarvis (2022-present)**: Developed several projects as a front-end and back-end developer by following the scrum/agile methodology. Gained hands-on experience with many technologies such as Java, SQL, Git, and Docker. Held daily scrum meetings as a team lead.
 
 
 ## Education
 **University of Toronto (2017-2021)**, Honours Bachelor of Science, Computer Science & Mathematics
-- Admission Scholarship
+- Admission Scholarship - Achieved at least 90% average in High School
 
 
 ## Miscellaneous
-- Basketball
-- Video Games
-- Music
+- Video Games - Developing and playing video games
+- Music - Creating and listening to music
