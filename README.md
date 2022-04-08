@@ -1,6 +1,6 @@
 # Kevin Subhash . Jarvis Consulting
 
-I am a recent graduate from University of Toronto with an Honours Bachelor of Science. I did a double major in Computer Science and Mathematics during my undergrad. Over the years, I have been exposed to many concepts such as web development, data structures/algorithms, software design, and systems programming just to name a few. I first started programming in grade 10 and found it very fascinating which has led me to pursue a career in computer science. I am currently a software developer at Jarvis where I was introduced to many new technologies such as Docker, Maven, and Springboot. That being said, I see myself as an inspired individual who is committed to professional growth and continuous learning.
+I am a recent graduate from University of Toronto with an Honours Bachelor of Science. I did a double major in Computer Science and Mathematics during my undergrad. Over the years, I have worked with several concepts such as web development, data structures/algorithms, software design, and systems programming just to name a few. I first started programming in grade 10 and found it very fascinating which has led me to pursue a career in computer science. I am currently a software developer at Jarvis where I worked with many technologies such as Docker, Maven, and Springboot. I see myself as an inspired individual who is committed to professional growth and continuous learning.
 
 ## Skills
 
@@ -42,5 +42,5 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 
 ## Miscellaneous
-- Video Games - Developing and playing video games
-- Music - Creating and listening to music
+- Developing and playing video games
+- Creating and listening to music

@@ -6,11 +6,11 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
 summary: "I am a recent graduate from University of Toronto with an Honours Bachelor of Science. I did a double major 
-in Computer Science and Mathematics during my undergrad. Over the years, I have been exposed to many concepts such as 
+in Computer Science and Mathematics during my undergrad. Over the years, I have worked with several concepts such as 
 web development, data structures/algorithms, software design, and systems programming just to name a few. I first started 
 programming in grade 10 and found it very fascinating which has led me to pursue a career in computer science. I am 
-currently a software developer at Jarvis where I was introduced to many new technologies such as Docker, Maven, and Springboot. 
-That being said, I see myself as an inspired individual who is committed to professional growth and continuous learning."
+currently a software developer at Jarvis where I worked with many technologies such as Docker, Maven, and Springboot. 
+I see myself as an inspired individual who is committed to professional growth and continuous learning."
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -110,5 +110,5 @@ education:
 others:
   - title: "Activities/Hobbies"
     bullets:
-      - "Video Games - Developing and playing video games"
-      - "Music - Creating and listening to music"
+      - "Developing and playing video games"
+      - "Creating and listening to music"
